@@ -1,0 +1,9 @@
+PID Implementation
+
+1) Download VS Capture to obtain data from GE Dash
+https://sourceforge.net/projects/vscapture/
+
+2) Customize GE RJ345 to RS232 port
+http://www.frankshospitalworkshop.com/equipment/documents/ecg/service_manuals/Marquette_Dash_3000_-_Service_Manual.pdf
+
+3) Run VS Capture CLI at sample rate of 5 seconds to get data off the monitor and write to DashExportData.csv
