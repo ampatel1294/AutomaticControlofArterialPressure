@@ -7,3 +7,7 @@ https://sourceforge.net/projects/vscapture/
 http://www.frankshospitalworkshop.com/equipment/documents/ecg/service_manuals/Marquette_Dash_3000_-_Service_Manual.pdf
 
 3) Run VS Capture CLI at sample rate of 5 seconds to get data off the monitor and write to DashExportData.csv
+
+4) Connect NE-1000 One Channel Programmable Syring Pump
+
+5) Execute PID Code. 
